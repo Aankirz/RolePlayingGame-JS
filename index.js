@@ -9,3 +9,7 @@ function render() {
 const wizard = new Character(characterData.hero)
 const orc = new Character(characterData.monster)
 render()
+
+var value="Ankit";
+value.trim().length;
+console.log(value)
